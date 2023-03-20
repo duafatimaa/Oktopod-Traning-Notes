@@ -28,3 +28,13 @@ OneDrive is a cloud-based file hosting and synchronization service provided by M
 OneDrive is available for use on multiple platforms, including Windows, Mac, iOS, Android, and Windows Phone. This makes it easy to access your files from different devices, and also enables collaboration by allowing multiple users to work on the same document at the same time.
 ## 2nd Overview 
 Outlook offers a range of useful features to enhance your email experience. When receiving an email, you can choose to reply to the sender or to reply all if the email was sent to multiple recipients. Additionally, you can use the search bar to filter emails by the sender's name or email address.If you need to take note of important information from an email, simply click on the three dots and select the "Notes" option. Flagged emails can also be viewed in the Notes section for easy reference.You can quickly navigate between different folders in Outlook by using the keyboard shortcut "ctrl+1+2+3". To view the To-Do bar, go to the "View" tab and select "Layout". From there, you can choose to show the To-Do bar, which displays upcoming tasks and appointments.If you need to delay sending an email, Outlook automatically places it in the Outbox until the scheduled send time. These features help to streamline your email management and improve your productivity.
+## Email Signature 
+- Go to the new email and click n the pencil icon which is for the signature.
+- Give the name to the Signature, after that in the below section write "Sincerely" and add your name.
+- Use the Bold/Italic function or change the color of the text which is for signature.
+- You can also add an official Signature.
+- Select your name inside both sections of "Select Default Signature". 
+- Click on Save and the Signature will be saved when you will open any email signature will appear. 
+## Short Keys
+- windows+Ctrl+D for minimize.
+- windows+L for the Lock screen.
