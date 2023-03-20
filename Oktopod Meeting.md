@@ -16,7 +16,7 @@ It's important to use these functions appropriately to avoid confusion and unnec
 ## Folders
 You can see a different folder inside Outlook. If you face trouble finding an email for any specific person then you create a folder and save an email inside it for that person. Right-click on "Create New > Name that Folder> Press Enter > Folder Created. 
 When you pen your outlook things to notice that it should be "Connected to:" Saw on the bottom toolbar. Because someone sends you an email or you do not receive it because you are not connected. Make sure it is always connected and folders are up to date.  
-## Favourite section
+## Favourite Section
 If you are using Microsoft Outlook for email and have created folders to organize your emails, you may want to mark certain folders as favorites for quick access. To do this, you can right-click on the folder you want to mark as a favorite and select "Add to Favorites" from the contextual menu. Once you add a folder to your favorites in Outlook, it will appear in the "Favorites" section of the navigation pane on the left side of the Outlook window. This makes it easy to access your frequently used folders without having to navigate through the entire folder structure every time. You can also remove a folder from your favorites by right-clicking on it in the "Favorites" section and selecting "Remove from Favorites" from the contextual menu. This will remove the folder from the "Favorites" section but it will still be accessible in its original location within the folder structure.
 You can hide folders inside favourite section by ussing Arrow inside it. 
 ## Archive Section
