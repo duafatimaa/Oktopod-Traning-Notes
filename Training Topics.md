@@ -8,3 +8,5 @@
 - Difference between KVM and RDP
 - Review of Outlook ( List of Contacts, To Do List, Difference between Reply and Replay All/Forward, Folders, Favourite Section, Archive Section, Adjustments, One Drive)
 - Email Signature
+- Hub vs Switch
+- OneNote Web Version vs Desktop Version
