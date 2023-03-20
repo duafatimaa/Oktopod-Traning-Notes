@@ -4,7 +4,7 @@ We can use more than one account in Outlook. We use multiple accounts at a time.
 ## List of Contacts 
 In this section, you can see your contacts which are official contacts or you add other contacts by clicking new contacts. All of your contacts will be stored in it.
 In addition to the official contacts, the user can also add other contacts manually by clicking on a button or link labeled "new contacts." When the user adds a new contact, it will be saved in the same section along with the official contacts. Overall, this section serves as a centralized location for all of the user's contacts. They can view and manage their contacts from this section, such as editing contact information, deleting contacts, or grouping contacts into categories.
-## To Do List it. 
+## To Do List 
 You can store your activities in it like flagged emails or that activity. 
 Near the To Do List, click on 3 dots and you see a section for notes. You can store short notes in it. It is just like a sticky note. You can create notes for meetings in it. Sticky Notes may be connected to our official account or may your Gmail account. When you connect your sticky notes to your official account then it may show in the note section.  
 ## Difference between Reply and Replay All/Forward
